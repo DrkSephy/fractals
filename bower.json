@@ -1,0 +1,12 @@
+{
+  "name": "fractals",
+  "version": "0.0.0",
+  "homepage": "https://github.com/DrkSephy/fractals",
+  "authors": [
+    "David Leonard <DrkSephy1025@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "d3": "~3.4.13"
+  }
+}
